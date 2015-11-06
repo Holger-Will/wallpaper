@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3200 1131">
+<style type="text/css">
+    .label,#tagNum{fill:#fd5;}
+    text{font-family:GE Inspira;font-size:12px}
+    #tx{font-size:100px;fill:white;font-weight:500}
+    .label{font-weight:bold}
+    #tag{font-size:40px;fill:white}
+    #tagNum{font-size:40px;}
+    #MY{font-size:18px;fill:white}
+</style>
+    <linearGradient x1="0.2" y1="0.2" x2="1" y2="2" id="lg1">
+        <stop offset="0" stop-color="darkblue">
+        </stop>
+        <stop offset="1" stop-color="turquoise"/>
+    </linearGradient>
+    <rect x="0" y="0" width="3200" height="1200" fill="url(#lg1)"/>
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 160 160" x="400" y="711" width="150" height="150">
+    <path fill="#fff" stroke-width="2" d="M 5 5 L 74 5 L 56 23 A 55.5 55.5 0 1 0 127 94 L 145 76 L 145 145 L 5 145 Z M 46.71 46.71 L 88.4 5 L 145 5 L 145 61.6 L 103.31 103.29 A 40 40 0 0 1 46.71 46.71 Z M 53.78 53.78 A 30 30 0 0 0 96.28 96.28 A 30 30 0 1 0 53.78 53.78 Z M 135 15 L 92.5 15 L 72.5 35 A 40 40 0 0 1 114.92 77.42 L 135.02 57.32 Z"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -5 160 160" x="2745" y="545" width="150" height="150">
+    <path fill="#fff" stroke-width="2" d="M 5 5 L 74 5 L 56 23 A 55.5 55.5 0 1 0 127 94 L 145 76 L 145 145 L 5 145 Z M 46.71 46.71 L 88.4 5 L 145 5 L 145 61.6 L 103.31 103.29 A 40 40 0 0 1 46.71 46.71 Z M 53.78 53.78 A 30 30 0 0 0 96.28 96.28 A 30 30 0 1 0 53.78 53.78 Z M 135 15 L 92.5 15 L 72.5 35 A 40 40 0 0 1 114.92 77.42 L 135.02 57.32 Z"/>
+</svg>
+<g transform="translate(-100 150)">
+<text x="160" y="115" id="tx">12:56</text>
+<text class="label" id="label1" x="170" y="130">HD </text> <text x="200" y="130" id="tx2" fill="white">28 GiB / 216 GiB</text>
+<text class="label" id="label2" x="310" y="130">RAM </text> <text x="345" y="130" id="tx3" fill="white">2.53 GiB / 15.58 GiB</text>
+<text class="label" id="label3" x="470" y="130">CPU </text> <text x="505" y="130" id="tx4" fill="white">7.25 %</text>
+<text x="440" y="115" id="tag">Freitag</text>
+<text x="400" y="75" id="tagNum">06</text>
+<text x="450" y="60" id="MY">November 2015</text>
+</g>
+<rect x="400" y="700" width="2500" height="5" fill="white"/>
+</svg>
